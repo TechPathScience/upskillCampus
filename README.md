@@ -90,7 +90,6 @@ Crop-Production-Prediction-India/
 │
 ├── data/
 ├── notebooks/
-├── model/
 ├── images/
 ├── README.md
 ├── requirements.txt
